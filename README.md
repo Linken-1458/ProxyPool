@@ -16,7 +16,7 @@
 
 ## 使用准备
 
-shishi首先当然是克隆代码并进入 ProxyPool 文件夹：
+首先当然是克隆代码并进入 ProxyPool 文件夹：
 
 ```
 git clone https://github.com/Linken-1458/ProxyPool.git
